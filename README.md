@@ -2,4 +2,4 @@
 
   Vision: A diagram showing your 2 components and how they talk to each other (e.g., REST API, TCP).
 
-  Proposal: Briefly describe which base images (e.g., Python, Node, Alpine) you plan to use.
+  Proposal: I plan to use Redis for the database and Python for the Web Server
