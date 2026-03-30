@@ -2,4 +2,4 @@
 
 ![http://url/to/img.png](https://github.com/DCarangan/CSC468-Project/blob/main/placeholder/Diagram.png)
 
-  Proposal: I plan to use Redis for the database and Python for the Web Server
+This project is meant to to serve as practice for setting up a python app that is able to crash gracefully for when the Redis is not ready. 
